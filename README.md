@@ -11,6 +11,12 @@ Here are a few programs I use on my Fadal mill. The Fusion 360 posts take advant
 >- Renishaw OMI
 >- Renishaw HSI Interface | A-5500-1000
 
+>[!NOTE]
+>Todo for Fusion post
+>- Update to use new shared content
+>- Figure out how to only turn on/off probe at beginning/end of multiple cycles
+
+
 ## Accublast
 
 Accublast remote control CNC coolant nozzle
